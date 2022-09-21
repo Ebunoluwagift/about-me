@@ -36,7 +36,8 @@ a{
 
 .bottom-cloud {
   position: absolute;
-  top: 190px;
+  top: 190px
+  left: 20px;
 }
 
 .top-cloud {
